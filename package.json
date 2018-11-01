@@ -1,0 +1,31 @@
+{
+  "name": "eurobank-converter",
+  "version": "0.1.0",
+  "main": "index.js",
+  "license": "MIT",
+  "markdown": "github",
+  "engineStrict": true,
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": {
+    "name": "Federico Vitale",
+    "email": "fedevitale99@gmail.com",
+    "url": "https://github.com/rawnly"
+  },
+  "keywords": [
+    "currency",
+    "converter",
+    "currency-converter",
+    "european",
+    "bank",
+    "eur",
+    "usd",
+    "dollar",
+    "euro",
+    "european"
+  ],
+  "dependencies": {
+    "got": "^9.3.0"
+  }
+}
